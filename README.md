@@ -1,9 +1,8 @@
-🚲 Bike Price Prediction – Data Science Project
-📌 Project Overview
+# 🚲 Bike Price Prediction – Data Science Project 📌 Project Overview
 
 This project focuses on building a Bike Price Prediction system using Data Science and Machine Learning techniques. The goal is to predict the resale price of bikes based on multiple features such as bike brand, model, year, kilometers driven, fuel type, owner type, and other relevant attributes. This helps users and sellers make data-driven pricing decisions.
 
-##📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains historical bike sales data with both numerical and categorical features, including:
 
@@ -23,7 +22,7 @@ Selling Price (Target Variable)
 
 The dataset required proper cleaning and preprocessing before model building.
 
-🧹 Data Preprocessing
+## 🧹 Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -39,7 +38,7 @@ Scaling numerical features where required
 
 This ensured the data was clean and suitable for machine learning models.
 
-📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 
 EDA was performed to understand data patterns and relationships:
 
@@ -53,7 +52,7 @@ Visualization using Matplotlib and Seaborn
 
 EDA helped identify key factors affecting bike prices.
 
-🤖 Model Building
+## 🤖 Model Building
 
 Multiple regression-based machine learning models were trained and evaluated, such as:
 
@@ -73,7 +72,7 @@ Mean Squared Error (MSE)
 
 The best-performing model was selected based on accuracy and generalization performance.
 
-📈 Model Evaluation & Results
+## 📈 Model Evaluation & Results
 
 The selected model achieved good prediction accuracy on unseen test data
 
@@ -91,6 +90,7 @@ Environment: Jupyter Notebook
 
 ML Techniques: Regression, Feature Engineering, Model Evaluation
 
-🎯 Conclusion
+### 🎯 Conclusion
 
+This project demonstrates an end-to-end Data Science workflow, including data preprocessing, EDA, model building, and evaluation. It highlights practical skills in data analytics, machine learning, and predictive modeling, making it suitable for real-world applications such as online resale platforms.
 This project demonstrates an end-to-end Data Science workflow, including data preprocessing, EDA, model building, and evaluation. It highlights practical skills in data analytics, machine learning, and predictive modeling, making it suitable for real-world applications such as online resale platforms.
